@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "question": "1. What is the output of the following JavaScript code?",
+    "options": {
+      "a": "10, 20",
+      "b": "20, 10",
+      "c": "20, 20",
+      "d": "10, 10"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a valid way to create a Python class?",
+    "options": {
+      "a": "class MyClass():",
+      "b": "class MyClass:",
+      "c": "class MyClass{}",
+      "d": "class MyClass(){}"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 3,
+    "question": "What is the output of the following Python code?",
+    "options": {
+      "a": "10",
+      "b": "15",
+      "c": "20",
+      "d": "25"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 4,
+    "question": "What is the time complexity of the following JavaScript function?",
+    "options": {
+      "a": "O(1)",
+      "b": "O(log n)",
+      "c": "O(n)",
+      "d": "O(n^2)"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 5,
+    "question": "What is the output of the following Python code?",
+    "options": {
+      "a": "[1, 2, 3, 4, 5]",
+      "b": "[1, 2, 5, 3, 4]",
+      "c": "[1, 2, 3, 5, 4]",
+      "d": "[1, 2, 3, 4]"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 6,
+    "question": "What is the output of the following JavaScript code?",
+    "options": {
+      "a": "1, 2, 3",
+      "b": "a, b, c",
+      "c": "undefined",
+      "d": "{ a: 1, b: 2, c: 3 }"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is a correct way to define a dictionary in Python?",
+    "options": {
+      "a": "dict = {key: value}",
+      "b": "dict = {key = value}",
+      "c": "dict = (key: value)",
+      "d": "dict = [key: value]"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 8,
+    "question": "What is the output of the following Python code?",
+    "options": {
+      "a": "[5, 4, 3, 2, 1]",
+      "b": "[5, 4, 3, 2]",
+      "c": "[5, 4, 3]",
+      "d": "[5, 4, 3, 2, 0]"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 9,
+    "question": "What is the output of the following JavaScript code?",
+    "options": {
+      "a": "[1, 2, 3]",
+      "b": "[2, 4, 6]",
+      "c": "[2, 2, 2]",
+      "d": "[1, 4, 9]"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 10,
+    "question": "What is the output of the following Python code?",
+    "options": {},
+    "correctAnswer": "b"
+  }
+]
